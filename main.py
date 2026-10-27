@@ -1,7 +1,7 @@
 from datetime import datetime
 from journal import *
 
-# Hola, voy a hacer cositas :)
+# Hola, no voy a hacer cositas :)
 rutaDiario = "diario.txt"
 ahora = datetime.today()
 
